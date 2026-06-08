@@ -125,15 +125,3 @@ Welcome to Indivara Mini Store located in Jakarta
 setelah parameter `{0}` dan `{1}` diganti dengan nama toko dan kota.
 
 ---
-
-## 4. Kesimpulan
-
-Project ini menunjukkan implementasi beberapa fitur penting pada Spring Boot, yaitu:
-
-- Konfigurasi aplikasi menggunakan `@ConfigurationProperties`
-- Pembacaan file resource menggunakan `ResourceLoader`
-- Dukungan multibahasa menggunakan `MessageSource`
-- Eksekusi otomatis aplikasi menggunakan `CommandLineRunner`
-- Pengujian fitur menggunakan `@SpringBootTest`
-
-Dengan pendekatan ini, konfigurasi aplikasi menjadi lebih terstruktur, fleksibel, dan mudah dikembangkan untuk kebutuhan aplikasi yang lebih besar.
