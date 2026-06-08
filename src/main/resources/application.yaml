@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: jdt17.spring.dasar.config.properties
+  messages:
+    encoding: UTF-8
+    cache-duration: 3600
+    basename: message_challenge/messages
+server:
+  port: 8081
+
+
+store:
+  name: "Indivara Mini Store"
+  city: "Jakarta"
+  currency: "IDR"
+  max-daily-order: 100
+  active: true
+
