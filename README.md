@@ -13,28 +13,28 @@ Project ini dibagi menjadi beberapa bagian utama:
 
 ## ## 2. Screenshot Output Terminal
 
-### Screenshot 1 - Output Konfigurasi Store
+### Screenshot 1 - Output Ministore
 
 <p align="center">
-    <img src="assets/1.jpeg" alt="Output Konfigurasi Store" width="800">
+    <img src="assets/1.jpeg" alt="Output Ministore" width="800">
 </p>
 
-### Screenshot 2 - Pembacaan Banner dengan ResourceLoader
+### Screenshot 2 - Test Store Properties
 
 <p align="center">
-    <img src="assets/2.jpeg" alt="Output ResourceLoader" width="800">
+    <img src="assets/2.jpeg" alt="Output Test Store Properties" width="800">
 </p>
 
-### Screenshot 3 - Internationalization (English)
+### Screenshot 3 - Test Resource Loader
 
 <p align="center">
-    <img src="assets/3.jpeg" alt="Output English Locale" width="800">
+    <img src="assets/3.jpeg" alt="Output test resource loader" width="800">
 </p>
 
-### Screenshot 4 - Internationalization (Indonesia)
+### Screenshot 4 - Greeting Messages
 
 <p align="center">
-    <img src="assets/4.jpeg" alt="Output Indonesia Locale" width="800">
+    <img src="assets/4.jpeg" alt="Output test Greeting Messages" width="800">
 </p>
 
 ---
